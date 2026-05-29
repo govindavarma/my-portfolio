@@ -10,12 +10,6 @@ https://github.com/govindavarma/portfolio
 
 ---
 
-# Preview
-
-<img width="100%" alt="Portfolio Preview" src="YOUR_SCREENSHOT_LINK">
-
----
-
 # About The Project
 
 This portfolio was designed and developed to create a clean and professional digital presence focused on:
